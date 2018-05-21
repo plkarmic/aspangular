@@ -1,2 +1,2 @@
 # aspangular
-this is for practice purposes only
+working angular VS code template for SPA tests
