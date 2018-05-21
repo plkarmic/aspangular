@@ -1,2 +1,2 @@
 # aspangular
-practice only
+this is for practice purposes only
